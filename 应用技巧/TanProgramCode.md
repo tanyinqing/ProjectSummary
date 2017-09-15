@@ -51,6 +51,11 @@ Ctrl+Tab 或 Ctrl+PgDown 切换到下一个标签页 或上一个标签页
 Ctrl+W 或 Ctrl+F4 关闭当前标签页或弹出式窗口 
 Alt+Home 打开主页
 Ctrl+H 查看”历史记录”页 
+Ctrl++，或者按住 Ctrl 键并向上滚动鼠标滚轮	放大网页上的所有内容 
+Ctrl+-，或者按住 Ctrl 键并向下滚动鼠标滚轮	缩小网页上的所有内容 
+Ctrl+0	将网页上的所有内容都恢复到正常大小 
+前进键   Alt+Right
+后退键   Alt+Left
 
  <h1 id="0101">AndBaseDemo概况</h1>
  
