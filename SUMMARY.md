@@ -17,12 +17,13 @@
   * [谈Aar包文档](books/TanAar.md)
   * [MedicalManagement](books/MedicalManagement.md)
   * [TestQuestions](books/TestQuestions.md)
-* [其他](other/README.md)
-  * [解读人生](other/解读人生.md)   
-  * [休年假的记录](other/休年假的记录.md)   
-  * [MakeDown语法](other/intro/README.md)    
-       * [明飞语法](other/intro/MingFeiMarkdown.md)
-       * [马克飞象使用说明](other/intro/MaKeFeiXiangInstructions.md) 
+* [其他](其他/README.md)
+  * [解读人生](其他/解读人生.md)   
+  * [快捷键](其他/快捷键.md)   
+  * [休年假的记录](其他/休年假的记录.md)   
+  * [MakeDown语法](其他/intro/README.md)    
+       * [明飞语法](其他/intro/MingFeiMarkdown.md)
+       * [马克飞象使用说明](其他/intro/MaKeFeiXiangInstructions.md) 
   
 
 

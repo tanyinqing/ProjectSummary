@@ -23,7 +23,7 @@
 
   * [应用技巧](README.md) 
   * [明飞老师笔记](LiMingFeiNote.md)
-  * [MakeDown语法](../other/intro/README.md)    
-     * [明飞语法](../other/intro/MingFeiMarkdown.md)
-     * [马克飞象使用说明](../other/intro/MaKeFeiXiangInstructions.md)  
+  * [MakeDown语法](../其他/intro/README.md)    
+     * [明飞语法](../其他/intro/MingFeiMarkdown.md)
+     * [马克飞象使用说明](../其他/intro/MaKeFeiXiangInstructions.md)  
 
