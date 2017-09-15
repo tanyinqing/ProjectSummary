@@ -18,4 +18,3 @@ android:layout_centerInParent="true"  相对布局居中
 
 做的顺序就是，先搭框架，在写界面。写界面时先做一个草图，在逐渐细化和美化。
 
-[dd](D:\studiospace\AndroidCodeWareHouse\File_Warehouse\MarkDown文件\视频学习.md)
