@@ -98,7 +98,7 @@ AbTitleBar 这个是自定义的标题类，必须配合
 [地址](https://github.com/tanyinqing/LifeService)
 
 [分割横线](https://github.com/tanyinqing/LifeService/blob/master/app/src/main/res/layout/divider_gray.xml)     
-```java
+```
  引用代码 <include layout="@layout/divider_gray" />
 ``` 
 [个人中心页面](https://github.com/tanyinqing/LifeService/blob/master/app/src/main/res/layout/activity_user_center.xml)

@@ -16,7 +16,7 @@ git配置地址   C:\Users\Administrator
   * [项目在线](应用技巧/TanProgramCode.md)  
 * [项目](项目/README.md)        
   * [LinYou](项目/storeLinYou.md)  
-    * [详情](项目/storeLinYou/StoreDetails.md)
+    * [详情](项目/StoreDetails.md)
     * [门店接口](项目/storeLinYou/InterfaceStore.md)
     * [仓库接口](项目/storeLinYou/InterfaceWareHouse.md) 
 * [书籍](书籍/README.md)
